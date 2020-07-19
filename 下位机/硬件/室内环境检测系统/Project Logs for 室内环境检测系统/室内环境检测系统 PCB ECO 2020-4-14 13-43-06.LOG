@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetLED1_1 Pin=LED1-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED1-2
+Removed Pin From Net: NetName=NetLED1_1 Pin=R12-1
+Removed Pin From Net: NetName=+3.3 Pin=R12-2
+Removed Pin From Net: NetName=AO2 Pin=U1-7
+Removed Pin From Net: NetName=HSDA Pin=U1-11
+Removed Pin From Net: NetName=HSCL Pin=U1-12
+Added Component: Designator=LED1(LED 0805R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R 0805_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "色环电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R12-1
+Added Pin To Net: NetName=+3.3 Pin=R12-2
+Added Pin To Net: NetName=HSDA Pin=U1-10
+Added Pin To Net: NetName=HSCL Pin=U1-11
+Added Pin To Net: NetName=AO2 Pin=U1-12

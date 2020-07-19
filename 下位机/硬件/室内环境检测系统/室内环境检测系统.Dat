@@ -1,0 +1,20 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~室内环境检测系统.PrjPcb|ReportField=ProjectFullPath~D:\Users\Documents\寒假任务\8、毕设\3、安卓室内环境监测系统\下位机\硬件\室内环境检测系统\室内环境检测系统.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [室内环境检测系统.PcbDoc]|ReportField=ReportTime~0:58:26|ReportField=ReportDate~2020/5/9|ReportField=ReportDateTime~2020/5/9 0:58:26|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~31|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~室内环境检测系统.PcbDoc|ReportField=DataSourceFullPath~D:\Users\Documents\寒假任务\8、毕设\3、安卓室内环境监测系统\下位机\硬件\室内环境检测系统\室内环境检测系统.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|10uf|直插瓷片电容|C1, C3|R 0805_M|C-CC|2
+2|103|直插瓷片电容|C2, C4|R 0805_M|C-CC|2
+3|470uF/16V|直插电解电容|E1|CAP 2.0*5*11 - BK|C-CAP|1
+4|红色|贴片LED|LED1|LED 0805R|LED-SMD|1
+5|DC5V|蜂鸣器|LS1|BEEP 5x9x5.5|BEEP|1
+6|HDR-1X4|4P接插件|OLED1|HDR2.54-M-LI-4P|Header 4|1
+7|HDC1080|Header, 4-Pin|P1|HDR1X4|Header 4|1
+8|ESP-01S|Header, 4-Pin, Dual row|P2|HDR2X4_CEN|Header 4X2A|1
+9|Fan|Header, 2-Pin, Right Angle|P3|HDR1X2H|Header 2H|1
+10|TEMT6000|Header, 3-Pin|P4|HDR1X3|Header 3|1
+11|MQ-2|Header, 4-Pin|P5|HDR1X4|Header 4|1
+12|MQ-135|Header, 4-Pin|P6|HDR1X4|Header 4|1
+13|SS8050|高频放大-NPN型|Q1, Q2|TO92A|8050-DIP|2
+14|1K|直插色环电阻|R1, R3|R 0805_M|R-CRR|2
+15|4.7K|直插色环电阻|R2, R4, R5, R6, R7, R8|R 0805_M|R-CRR|6
+16|510R|直插色环电阻|R12|R 0805_M|R-CRR|1
+17|M3铜柱|铜柱|SP1, SP2, SP3, SP4|M3x4_L|铜柱小焊盘|4
+18|CSW-2P|2路编码开关|SW1|CSW DIP-2P|CSW-2P|1
+19|STM32F103C8T6核心板||U1|DIP40-600_MH|STM32F103C8T6核心板|1

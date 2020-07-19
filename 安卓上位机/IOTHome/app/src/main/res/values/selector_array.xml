@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>温度</item>
+        <item>湿度</item>
+        <item>光强</item>
+        <item>MQ2</item>
+        <item>MQ135</item>
+    </string-array>
+</resources>

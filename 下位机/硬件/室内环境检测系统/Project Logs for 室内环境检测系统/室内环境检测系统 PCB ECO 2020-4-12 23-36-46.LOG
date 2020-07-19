@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=E? NewDesignator=E1
+Added Member To Class: ClassName=室内环境检测系统 Member=Component C3 10uf
